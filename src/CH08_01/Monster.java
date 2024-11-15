@@ -13,6 +13,7 @@ public interface Monster {//인터페이스->인스턴스(객체)로 만들 수 
 	public void attack();//추상 메소드
 	public void fly();//추상 메소드 
 	
+	
 }
 
 //인터페이스의 특징
